@@ -1,0 +1,226 @@
+canonical_identifier: bkk:krp/KR6b0006/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0006/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 悲華經
+  identifiers:
+    krp: KR6b0006
+    cbeta: T03n0157
+    cbeta_old_id: T03n0157
+    authorityid: CA0000279
+    json_key: T0157
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0157.xml
+    old_id: T03n0157
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0006_000-T.yaml, hash: 'sha256:3ffff6d09f66bc3711b4d4cdd04ebdad8fea4d4e65472cd4ae85b551ef99214b'}
+  - {seq: 1, filename: KR6b0006_001-T.yaml, hash: 'sha256:a3a2728ddc18a30209644773d40af709135f04ef9b1b86f7820830bd99c39938'}
+  - {seq: 2, filename: KR6b0006_002-T.yaml, hash: 'sha256:5c79854170bb8901f27409de81b514fe6a89aa776f4517a0b738113d9c728448'}
+  - {seq: 3, filename: KR6b0006_003-T.yaml, hash: 'sha256:9a0ea65984c92e8ee68241f79bc51f033a218300b9f479ec5a2190ec45e0162a'}
+  - {seq: 4, filename: KR6b0006_004-T.yaml, hash: 'sha256:8f4e8b96e51902679e74d2dab62b5de81ec694b479fbc173ef76a955f7c8e361'}
+  - {seq: 5, filename: KR6b0006_005-T.yaml, hash: 'sha256:872b43697df13024b22a7fea22b0b88ce2e936bd8828acb17367d3f7c661f73c'}
+  - {seq: 6, filename: KR6b0006_006-T.yaml, hash: 'sha256:4765212b9f05eac4adb45b53b28282bea8c48ae1a5a0a0105824fb61548e832b'}
+  - {seq: 7, filename: KR6b0006_007-T.yaml, hash: 'sha256:a5b06a8696ebc7ab5ca1e927f3ab144f3e84966e1e80a6066fb69726c79caef4'}
+  - {seq: 8, filename: KR6b0006_008-T.yaml, hash: 'sha256:a78f847701d432cf74cd7d931b992c2a140e5a9ba902f7edc9f47594d0046f84'}
+  - {seq: 9, filename: KR6b0006_009-T.yaml, hash: 'sha256:afa6099361e681098bc37996d90cfca197ea3fba845d8c8a6515f2f361c645b4'}
+  - {seq: 10, filename: KR6b0006_010-T.yaml, hash: 'sha256:fd56aecabfa78748c1105a8eb20498f54bbc3c336b2fabe2baef3572196b2aec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0006_000-T.markers.yaml, hash: 'sha256:4cddde0f01d48e75fd89e496153a2bbbf52dcf760c4396337289d91c052ed862'}
+  - {seq: 1, role: markers, filename: assets/KR6b0006_001-T.markers.yaml, hash: 'sha256:168bbe44e4e6bcc422735fd72b5dd6f81b6417bdc00cc34c1c0573ae62b06a09'}
+  - {seq: 2, role: markers, filename: assets/KR6b0006_002-T.markers.yaml, hash: 'sha256:94aeb5d9016956bec8a00c157b0ac5b2d2d6286b8a60791a51d3cef4e7407330'}
+  - {seq: 3, role: markers, filename: assets/KR6b0006_003-T.markers.yaml, hash: 'sha256:609ea1ebc25ef534512776e2fecaaae3b4ebef20f06a3e0e9a0cfa2807eb9848'}
+  - {seq: 4, role: markers, filename: assets/KR6b0006_004-T.markers.yaml, hash: 'sha256:6177562773f5e753352cda3e3316981c0ab562dc2706f2c6679d2bb0c2871157'}
+  - {seq: 5, role: markers, filename: assets/KR6b0006_005-T.markers.yaml, hash: 'sha256:5ffec22f849a27b51f2cad8f0ed1d8078411890a85761222a63622a4d60335d5'}
+  - {seq: 6, role: markers, filename: assets/KR6b0006_006-T.markers.yaml, hash: 'sha256:6cf4b15ea7343d0d1a29df03d4109c122a0bf654ecef7d60139209132e9f28e0'}
+  - {seq: 7, role: markers, filename: assets/KR6b0006_007-T.markers.yaml, hash: 'sha256:d6909ca48acd379a3fd8aab91b9871a2b6f1c6c2bfe16e1e47cede07717c4053'}
+  - {seq: 8, role: markers, filename: assets/KR6b0006_008-T.markers.yaml, hash: 'sha256:73a08a556af688a269ea39b8ecfd856ade64998be084038390b8101136082c8b'}
+  - {seq: 9, role: markers, filename: assets/KR6b0006_009-T.markers.yaml, hash: 'sha256:cd79e314b349c9d03b23257d599048cf108770ab7ebd1c377aa24290e9d37d2a'}
+  - {seq: 10, role: markers, filename: assets/KR6b0006_010-T.markers.yaml, hash: 'sha256:07ccaedea92c067b24fb5f0a3b694e2d8f5fc574ce17c9beac334a848200c82a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0006_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9921
+  label: 悲華經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0006_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 轉法輪品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0006_T_001-mulu-2
+    span:
+    - body
+    - 2185
+    - 2185
+  label: 2 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0006_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9519
+  label: 悲華經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0006_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 3 大施品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0006_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10103
+  label: 悲華經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0006_T_003-mulu-1
+    span:
+    - body
+    - 2901
+    - 2901
+  label: 4 諸菩薩本授記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0006_T_003-mulu-2
+    span:
+    - body
+    - 2901
+    - 2901
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0006_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9806
+  label: 悲華經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0006_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8045
+  label: 悲華經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0006_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8816
+  label: 悲華經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0006_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8829
+  label: 悲華經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0006_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8600
+  label: 悲華經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0006_T_008-mulu-1
+    span:
+    - body
+    - 6347
+    - 6347
+  label: 5 檀波羅蜜品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6b0006_T_008-mulu-2
+    span:
+    - body
+    - 6347
+    - 6347
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6b0006_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7626
+  label: 悲華經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0006_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8198
+  label: 悲華經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6b0006_T_010-mulu-1
+    span:
+    - body
+    - 2463
+    - 2463
+  label: 6 入定三昧門品
+  type: mulu
+  level: 1
+hash: sha256:56b9300f37c1cec4a37d9d2a37eaa09f06a99212c0bbcf0a3eb2f197bf36e657
